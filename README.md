@@ -114,3 +114,19 @@
   ![检测图一](https://image.135editor.com/files/users/126/1261920/201906/P6jSJUZA_AJFB.png)
   
   ![检测图二](https://image.135editor.com/files/users/126/1261920/201906/vHmcxcfU_TjWG.png)
+  
+### 网站备份
+
+* **winSCP**
+
+![winscp](https://image.135editor.com/files/users/126/1261920/201906/dW9Gnfdu_v4Od.png)
+
+* **Wordpress Database Backup**
+
+![wp](https://image.135editor.com/files/users/126/1261920/201906/PfOK8BRA_J8rz.png)
+
+* **Wordpress后台导出工具**
+
+![1](https://image.135editor.com/files/users/126/1261920/201906/kDrBJgdu_AyKz.png)
+
+![2](https://image.135editor.com/files/users/126/1261920/201906/wFNC6eFq_8hmx.png)
