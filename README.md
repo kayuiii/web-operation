@@ -69,6 +69,10 @@
  
 ### 云端架站踩坑图文
 
+1.[使用Digital Ocean搭建WordPress网站 1.0](http://kayuii.me/2019/06/10/dg-to-website/)
+
+2.[使用Digital Ocean搭建WordPress网站 2.0](http://kayuii.me/2019/06/29/dg-to-wordpress)
+
 ### 平面设计
 
 * **网站配色**
@@ -90,6 +94,30 @@
   背景采用黑色系，字体采用与之对应的暗白色和纯白，形成良好的对比效果，具有良好的可读性。
   
 * **平面设计应用**
+
+  * **Animate it!**
+  
+  1.文章：[使用Digital Ocean搭建WordPress网站 2.0](http://kayuii.me/2019/06/29/dg-to-wordpress)中，所有图片均设置了flash动效。
+  
+  ![flash](https://image.135editor.com/files/users/126/1261920/201906/wY7kmA7d_CCzG.png)
+  
+  2.
+  
+  * **SiteOrigin**
+  
+  1.文章：[深夜放毒之 日式拉面](http://kayuii.me/2019/06/29/ramen/)
+  
+  ![ramen](https://image.135editor.com/files/users/126/1261920/201906/SDm5hF84_Nweb.png)
+  
+  2.文章：[使用Digital Ocean搭建WordPress网站 2.0](http://kayuii.me/2019/06/29/dg-to-wordpress)
+  
+  ![wp](https://image.135editor.com/files/users/126/1261920/201906/cgK3jXOt_ytyh.png)
+  
+  3.文章：[今夜月色很美](http://kayuii.me/2019/06/29/tonight/)
+  
+  ![to](https://image.135editor.com/files/users/126/1261920/201906/J76DS7I6_mbHr.png)
+
+   
 
 
 ## 管理
