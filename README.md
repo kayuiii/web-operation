@@ -73,6 +73,8 @@
 
 2.[使用Digital Ocean搭建WordPress网站 2.0](http://kayuii.me/2019/06/29/dg-to-wordpress)
 
+3.[通过NameCheap绑定域名](http://kayuii.me/2019/06/29/namecheap)
+
 ### 平面设计
 
 * **网站配色**
@@ -101,7 +103,9 @@
   
   ![flash](https://image.135editor.com/files/users/126/1261920/201906/wY7kmA7d_CCzG.png)
   
-  2.
+  2.[通过NameCheap绑定域名](http://kayuii.me/2019/06/29/namecheap)中，所有图片均设置了fadein动效。
+
+  ![fadein](https://image.135editor.com/files/users/126/1261920/201906/9uNsXnPW_fgrz.png)
   
   * **SiteOrigin**
   
@@ -256,8 +260,12 @@
 
 * **WP Super Cache插件提高网页加载速度**
 
+![1](https://image.135editor.com/files/users/126/1261920/201906/9yxjMMMy_dMsu.png)
+
 描述：由site24×7数据结果得知，国内用户使用本网站时，出现了明显的加载卡顿情况，严重影响了用户的使用体验。因此，使用该插件中的的缓存功能，能支持页面缓存、缓存预加载等操作，有效提高网站的加载速度，改善用户体验。
 
 * **通过WP-copyright-protection插件保护原创内容**
+
+![2](https://image.135editor.com/files/users/126/1261920/201906/7ZLYxXyx_FeeY.png)
 
 描述：由于本网站的图文均为本人原创，为了保护原创内容，通过下载此插件进行站内的禁止复制操作，一定程度上能防止网站内原创内容被复制和抄袭。
