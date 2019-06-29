@@ -158,3 +158,96 @@
 ![1](https://image.135editor.com/files/users/126/1261920/201906/kDrBJgdu_AyKz.png)
 
 ![2](https://image.135editor.com/files/users/126/1261920/201906/wFNC6eFq_8hmx.png)
+
+
+## 运营
+
+### 站长工具
+
+* **百度站长认证**
+
+已完成相关认证，如图所示。
+
+![1](https://image.135editor.com/files/users/126/1261920/201906/M4aa5fd2_7fh7.png)
+
+* **bing站长认证**
+
+已完成认证并可以搜索到。
+
+![1](https://image.135editor.com/files/users/126/1261920/201906/HG5T2Zcz_9fgN.png)
+
+![2](https://image.135editor.com/files/users/126/1261920/201906/tNuktXnT_UxyO.png)
+
+### SEO优化
+
+文章：[网站SEO优化报告](http://kayuii.me/2019/06/11/seo/)
+
+### 用户研究
+
+* **用户访谈**
+
+  * 问题设置：
+  1.对于本网站的第一印象
+  2.对于本网站最喜欢/不喜欢的地方是什么？
+  3.diss一下网站里你觉得最不OK的设计
+  
+  * 小结：
+  1.用户对于本网站的第一印象多为主题不清晰、导入页为纯图片不知所云、定位不明确等。
+  2.调研中用户表示，对于网站的黑白灰配色很喜欢，但是稍显单调。
+  3.用户表示比较不喜欢的是文章页，没有明确的文章日期、内容预览略微有些混乱，需要进行调整。
+  4.有用户表示，网站中的导航栏不是很明确，跳转起来有一定难度。
+  
+  * 改进措施：
+  1.在首页明确主题，进行更细化的网页定位。
+  2.在每个页面设置固定导航栏。
+  3.修正文章页。
+  
+  * 改进前后
+  
+  **改进前：**
+  
+  ![1](https://image.135editor.com/files/users/126/1261920/201906/XfjrI2U3_pKjP.png)
+  
+  ![2](https://image.135editor.com/files/users/126/1261920/201906/UzpDSD8m_OE9a.png)
+  
+  **改进后：**
+  
+  ![3](https://image.135editor.com/files/users/126/1261920/201906/sMssLrcM_RbLE.png)
+  
+  ![4](https://image.135editor.com/files/users/126/1261920/201906/ux9YNVYp_vxbj.png)
+  
+* **A/B test**
+
+  * **A方案**
+  
+  1.页面分模块设置在首页，通过下滑进入
+  2.导航栏设置在侧边
+  3.搜索栏设置在底部
+  
+  ![yemian](https://image.135editor.com/files/users/126/1261920/201906/4uSO2mMZ_Mcuy.png)
+  
+  ![daohang](https://image.135editor.com/files/users/126/1261920/201906/TaGgYeD6_uuTW.png)
+  
+  ![sousuo](https://image.135editor.com/files/users/126/1261920/201906/AKPRMtJD_ARZZ.png)
+  
+  
+  * **B方案**
+  
+  1.页面设置在顶部导航栏，且每个页面导航栏均设置在顶部
+  3.搜索栏设置在页面最顶部
+  
+  ![yemian](https://image.135editor.com/files/users/126/1261920/201906/vGNCnkvM_3e3W.png)
+
+  * **用户行为**
+  
+  **A组用户行为**：A组用户在打开页面后，均有“熟悉页面”的动作。即，在首页把每个页面都点击了一遍，随后没有进行深入了解。
+  
+ **A组用户反馈**：由于页面是分模块在首页呈现的，需要花费时间去熟悉才能了解到网站，不是很符合使用习惯，也需要花费较大的阅读成本。此外，由于搜索栏在底部，用户甚至没有意识到这个功能，也没有想着要去使用他，没有实现其应有的效果。
+
+ **B组用户行为**：B组用户在进入页面后，通过导航栏熟悉网站。有50%的用户在熟悉后选择使用搜索栏搜索感兴趣的内容，另外50%用户选择在页面继续浏览。
+ 
+ **B组用户反馈**：这个设计可以很直观地通过顶部栏就了解到网站内的页面，搜索栏放置在顶部也比较合理，符合用户的使用习惯。
+ 
+ * **A/B test总结**
+ 
+ 通过对比发现，B方案更符合多数用户的使用习惯，最后决定采用B方案。
